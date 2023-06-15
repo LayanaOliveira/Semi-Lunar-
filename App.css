@@ -1,0 +1,148 @@
+.Index{
+  padding: 0px;
+  margin-top: -30px;
+  position: absolute;
+  width: 100%;
+}
+
+.altura{
+  margin-top: -2910px;
+  margin-left: 265px;
+  position: absolute;
+}
+
+.peso{
+  margin-top: -2960px;
+  margin-left: 260px;
+  position: absolute;
+}
+
+.calcular{
+  margin-top: -2850px;
+  position: absolute;
+  margin-left: 242px;
+}
+
+button{
+  height: 30px;
+  width: 120px;
+  border-radius: 20px 20px 20px 20px;
+  position: absolute;
+  border: 0px;
+  font-weight: bold;
+  color: white;
+  background-color: #9B5098;
+}
+
+.resultado{
+  position: absolute;
+  margin-top: -2620px;
+  margin-left: 110px;
+}
+
+p{
+  color: white;
+  font-weight: bold;
+}
+
+input{
+  position: absolute;
+  border: 0px;
+  border-bottom: 1px solid #a3a3a2 ;
+}
+
+.msm{
+  position: absolute;
+  margin-top: -1500px;
+  margin-left: 833px;
+}
+
+.text{
+  margin-top: -3280px;
+  position: absolute;
+  margin-left: 630px;
+}
+
+a{
+  color: #FFFFFD;
+  font-weight: bold;
+}
+
+.curtir{
+  position: absolute;
+  margin-top: -450px;
+  margin-left: 80%;
+}
+
+.quiz{
+  position: absolute;
+  margin-top: -1537px;
+  margin-left: 275px;
+}
+
+h2{
+  color: #935FA3;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 242px;
+  margin-top: -773px;
+  position: absolute;
+}
+
+h4{
+  color: #935FA3;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 246px;
+  margin-top: -690px;
+  position: absolute;
+}
+
+h6{
+  color: #935FA3;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 246px;
+  margin-top: -608px;
+  position: absolute;
+}
+
+h1{
+  color: #935FA3;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  margin-left: 476px;
+  margin-top: -776px;
+  position: absolute;
+}
+
+h5{
+  color: #935FA3;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  margin-left: 476px;
+  margin-top: -695px;
+  position: absolute;
+} 
+
+h3{
+  color: #935FA3;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  margin-left: 476px;
+  margin-top: -615px;
+  position: absolute;
+}
+
+img{
+  width: 700px;
+  position: absolute;
+  margin-top: -500px;
+  margin-left: 150px;
+}
